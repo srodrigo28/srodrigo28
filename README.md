@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sebastião Rodrigo
+# Sebastião Rodrigo
 
 **`Desenvolvedor FullStack`**
 
