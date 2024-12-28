@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás. Concluí o ensino Superior Universidade Federal Acarau Matemática, mas alguns cursos técnico pouco mais de 200. Atualmente, Curso Analise e Desenvolvimento de sistemas e Engenharia de Software pela Estacio. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Treina-dev](https://www.youtube.com/@treina-dev)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[treina-dev](https://www.instagram.com/treina-dev/)".
+Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás)".
 
 <p align="left">
     <a href="[https://www.youtube.com/@treina-dev](https://www.youtube.com/@treina-dev)?sub_confirmation=1">
