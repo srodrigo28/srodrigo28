@@ -155,22 +155,8 @@ Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás)".
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=srodrigo28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo28&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-
-</p>
+📊 Estatísticas do GitHub
+<p align="center"> <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=srodrigo28&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srodrigo28&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"/> </p> <p align="center"> <img alt="GitHub Streak" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=srodrigo28&theme=tokyonight&locale=pt-br"/> </p>
+📫 Contato
+<p align="center"> <a href="mailto:sebastiao.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sebastiao-rodrigo"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
