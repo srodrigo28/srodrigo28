@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Sebastião Rodrigo, tenho 38 anos e sou natural de Goiânia Goiás)".
+Me chamo Sebastião Rodrigo, tenho 39 anos e sou natural de Britânia Goiás)".
 
 <p align="left">
     <a href="[https://www.youtube.com/@treina-dev](https://www.youtube.com/@treina-dev)?sub_confirmation=1">
