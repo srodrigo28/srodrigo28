@@ -62,6 +62,12 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     </td>
     <td align="center" width="96">
       <a href="#-front-end">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="#-front-end">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
       </a>
       <br>Next.js
@@ -94,6 +100,12 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     </td>
     <td align="center" width="96">
       <a href="#-back-end">
+        <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#-back-end">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
@@ -106,6 +118,18 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
     </td>
   </tr>
    <tr>
+    <td align="center" width="96">
+      <a href="#-outros">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="48" height="48" alt="JQuery" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#-outros">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="48" height="48" alt="JQuery" />
+      </a>
+      <br>Flutter
+    </td>
     <td align="center" width="96">
       <a href="#-outros">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="48" height="48" alt="JQuery" />
