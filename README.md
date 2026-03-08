@@ -158,7 +158,7 @@ Me chamo Sebastião Rodrigo, tenho 39 anos e sou natural de Britânia, Goiás.
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img alt="GitHub Stats" height="180" src="./img/git-star.png"/>
+  <img alt="GitHub Stats" height="50" src="./img/star.webp"/>
 </p>
 
 <p align="center">
